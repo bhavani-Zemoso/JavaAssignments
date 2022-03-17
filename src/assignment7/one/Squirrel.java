@@ -1,6 +1,8 @@
-package assignment7;
+package assignment7.one;
 
-public class Squirrel extends Rodent{
+import assignment7.one.Rodent;
+
+public class Squirrel extends Rodent {
     public Squirrel()
     {
         System.out.println("Hi! I'm Squirrel");

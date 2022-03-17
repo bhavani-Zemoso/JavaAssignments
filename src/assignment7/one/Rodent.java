@@ -1,4 +1,4 @@
-package assignment7;
+package assignment7.one;
 
 public abstract class Rodent {
     public void burrow()

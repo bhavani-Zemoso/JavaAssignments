@@ -1,4 +1,4 @@
-package assignment7;
+package assignment7.one;
 
 public class ExecuteRodent {
     public static void main(String args[])

@@ -1,6 +1,6 @@
-package assignment7;
+package assignment7.one;
 
-public class Lemming extends Rodent{
+public class Lemming extends Rodent {
     public Lemming()
     {
         System.out.println("Hi! I'm Lemming");
