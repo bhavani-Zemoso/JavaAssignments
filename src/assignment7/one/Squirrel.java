@@ -1,6 +1,5 @@
 package assignment7.one;
 
-import assignment7.one.Rodent;
 
 public class Squirrel extends Rodent {
     public Squirrel()
