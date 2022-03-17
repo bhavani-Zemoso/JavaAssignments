@@ -1,0 +1,20 @@
+
+@
+java:S1197
+"*Move the array designators [] to the type.(ãž¸Ï
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š±‹½øÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(©û–íúÿÿÿÿ
+g
+java:S2677 "LUse or store the value returned from "readLine" instead of throwing it away.(£­—âÿÿÿÿÿ
+g
+java:S2677!"LUse or store the value returned from "readLine" instead of throwing it away.(£­—âÿÿÿÿÿ
+E
+java:S1197)"*Move the array designators [] to the type.(ËÏ¸‡øÿÿÿÿ
+]	java:S125&"<This block of commented-out lines of code should be removed.(œ‡‘ˆùÿÿÿÿ8ˆàïŠù/
+X	java:S125/"<This block of commented-out lines of code should be removed.(Ù´óù8¨‹ðŠù/
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(¦¼Þõúÿÿÿÿ8å¹æŠù/
+]	java:S1254"<This block of commented-out lines of code should be removed.(„Äõûÿÿÿÿ8•³ïŠù/
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒßµ³ýÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñöô
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Úö@

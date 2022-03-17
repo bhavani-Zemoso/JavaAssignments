@@ -1,0 +1,11 @@
+
+d
+java:S3008"ORename this field "HOME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ã¦e
+@
+java:S1197"*Move the array designators [] to the type.(ã¸Ï
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Áëà
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÁè’øÿÿÿÿ
+E
+java:S1197%"*Move the array designators [] to the type.(Òå½¯øÿÿÿÿ
+U	java:S106."9Replace this use of System.out or System.err by a logger.( £‰8Ë¯—ˆù/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùé©îüÿÿÿÿ
