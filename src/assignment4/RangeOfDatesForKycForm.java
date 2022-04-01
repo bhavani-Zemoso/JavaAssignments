@@ -37,7 +37,7 @@ public class RangeOfDatesForKycForm {
 
     public void findRange()
     {
-        if(isValidDates())
+        if(currentDate.isAfter(signupDate))
         {
             LocalDate anniversary = calculateAnniversary();
             System.out.println("Anniversary = " + anniversary);
@@ -55,23 +55,15 @@ public class RangeOfDatesForKycForm {
             System.out.println("No range");
     }
 
-    public boolean isValidDates()
-    {
-        Period differenceBetweenDates = Period.between(signupDate, currentDate);
-        int years = differenceBetweenDates.getYears();
-        int months = differenceBetweenDates.getMonths();
-        int days = differenceBetweenDates.getDays();
-        //System.out.println(years + " " + months + " " + days);
-
-        if(years >= 0 && months >= 0 && days >= 0)
-            return true;
-
-        return false;
-    }
-
     public LocalDate calculateAnniversary()
     {
-        LocalDate anniversary = LocalDate.of(currentDate.getYear(), signupDate.getMonth(), signupDate.getDayOfMonth());
+        LocalDate anniversary;
+
+        if(signupDate.getMonthValue() == 2 && signupDate.getDayOfMonth() == 29 && !currentDate.isLeapYear())
+            anniversary = LocalDate.of(currentDate.getYear(), signupDate.getMonth(), 28);
+        else
+            anniversary = LocalDate.of(currentDate.getYear(), signupDate.getMonth(), signupDate.getDayOfMonth());
+
         return anniversary;
     }
 }

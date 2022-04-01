@@ -1,0 +1,9 @@
+
+Y
+java:S1854	"<Remove this useless assignment to local variable "SOME_NUM".(ãŞı8âÑ¼Öú/
+L
+java:S1197"*Move the array designators [] to the type.(º ìıÿÿÿÿ8“µ‚Ãù/
+J
+java:S1481	"-Remove this unused "SOME_NUM" local variable.(ãŞı8æÑ¼Öú/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ï¨‡ƒÿÿÿÿÿ8–µ‚Ãù/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(îî¡šüÿÿÿÿ8ƒ˜ÉÖú/

@@ -1,17 +1,17 @@
 package assignment3;
 
-import test.PingTest;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class MedianOfPingResponses {
 
     BufferedReader reader;
-    final int TIME_FIELD = 4;
     Process OSProcess;
 
     public static void main(String args[]) throws IOException
@@ -22,36 +22,46 @@ public class MedianOfPingResponses {
         System.out.println("Enter an IP address");
         String IPAddress = scanInput.nextLine();
 
-        instance.pingHost(IPAddress);
-        instance.calculateMedian();
+        System.out.println("Enter the number of responses required");
+        int responseCount = Integer.parseInt(scanInput.nextLine());
+
+        instance.pingHost(IPAddress, responseCount);
+        instance.calculateMedian(responseCount);
     }
 
-    public void pingHost(String IPAddress) throws IOException
+    public void pingHost(String IPAddress, int responseCount) throws IOException
     {
-        String command = "ping " + IPAddress;
+        String command = "ping " + IPAddress + " -n " + responseCount;
         OSProcess = Runtime.getRuntime().exec(command);
     }
 
-    public void calculateMedian() throws IOException
+    public void calculateMedian(int responseCount) throws IOException
     {
         reader = new BufferedReader(new InputStreamReader(OSProcess.getInputStream()));
 
         String line = "";
-        int timeArray[] = new int[4];
+        ArrayList<Integer> timeArray = new ArrayList<>();
 
         skipFirstTwoLines();
 
-        for(int i = 1; i <= 4; i++)
+        for(int i = 1; i <= responseCount; i++)
         {
             line = reader.readLine();
 
+            //System.out.println(line);
             int time = extractTimeFieldFromLine(line);
 
-            timeArray[i-1] = time;
+            timeArray.add(time);
         }
 
-        Arrays.sort(timeArray);
-        double median = (timeArray[1] + timeArray[2])/2.0;
+        Collections.sort(timeArray);
+
+        double sum = 0;
+        for(int i = 0; i < timeArray.size(); i++)
+            sum += timeArray.get(i);
+
+        double median = sum / responseCount;
+
         System.out.println("Median = " + median);
     }
 
@@ -63,11 +73,11 @@ public class MedianOfPingResponses {
 
     public int extractTimeFieldFromLine(String line)
     {
-        //Splitting the line and extracting the time field
-        String splitLine[] = line.split(" ");
-        String timeString = splitLine[TIME_FIELD];
-        int length = timeString.length();
+        Pattern pattern = Pattern.compile("time=(\\d+)ms");
+        Matcher match = pattern.matcher(line);
 
-        return (Integer.parseInt(timeString.substring(5, length-2)));
+        match.find();
+        String time = match.group(1);
+        return (Integer.parseInt(time));
     }
 }

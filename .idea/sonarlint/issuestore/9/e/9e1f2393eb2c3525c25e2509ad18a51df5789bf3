@@ -1,0 +1,16 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ª¤­ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ö •³øÿÿÿÿ
+T
+java:S1854!">Remove this useless assignment to local variable "movieNames".(•ƒô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Óâ÷ÿùÿÿÿÿ
+E
+java:S1481!"/Remove this unused "movieNames" local variable.(•ƒô
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(åğ…¯ùÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ô¨å¦üÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(·êĞåıÿÿÿÿ
+]	java:S125B"<This block of commented-out lines of code should be removed.(ŸÉæáÿÿÿÿÿ8çúÖû/
+\
+java:S11443"?Remove this unused private "testGenerateIterateStreams" method.(†…ƒ®8çúÖû/
+Z
+java:S2095)"DUse try-with-resources or close this "Stream" in a "finally" clause.(ùÔÖÅ

@@ -1,0 +1,24 @@
+
+[
+java:S1854"@Remove this useless assignment to local variable "notANewTrade".(Õı÷şÿÿÿÿ
+h
+java:S1854"MRemove this useless assignment to local variable "newOrCancelledButBigTrade".(ë·îÆıÿÿÿÿ
+b
+java:S1854"GRemove this useless assignment to local variable "newOrCancelledTrade".(åõíóÿÿÿÿÿ
+B
+java:S1172",Remove this unused method parameter "trade".(‰«Ì·
+S
+java:S1481"8Remove this unused "newOrCancelledTrade" local variable.(åõíóÿÿÿÿÿ
+S
+java:S1612">Replace this lambda with method reference 'Trade::isBigTrade'.(‰Ø*
+Y
+java:S1481">Remove this unused "newOrCancelledButBigTrade" local variable.(ë·îÆıÿÿÿÿ
+L
+java:S1481"1Remove this unused "notANewTrade" local variable.(Õı÷şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.( Ô÷‰üÿÿÿÿ
+S
+java:S1854$"8Remove this useless assignment to local variable "test".(Ù×¼ğÿÿÿÿÿ
+D
+java:S1481$")Remove this unused "test" local variable.(Ù×¼ğÿÿÿÿÿ
+I
+java:S1144"3Remove this unused private "testPredicates" method.(‰«Ì·

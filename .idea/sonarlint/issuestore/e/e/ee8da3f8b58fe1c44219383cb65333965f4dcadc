@@ -1,0 +1,30 @@
+
+L
+java:S1854"6Remove this useless assignment to local variable "m2".(âÿØ
+Q
+java:S1854"6Remove this useless assignment to local variable "m1".(ÔÃØìÿÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "i" parameter(ÔÃØìÿÿÿÿÿ
+C
+java:S1125"(Remove the unnecessary boolean literals.(ÔÃØìÿÿÿÿÿ
+B
+java:S1481"'Remove this unused "m1" local variable.(ÔÃØìÿÿÿÿÿ
+=
+java:S1481"'Remove this unused "m2" local variable.(âÿØ
+L
+java:S1854"6Remove this useless assignment to local variable "m1".(ì—¥
+E
+java:S1611"/Remove the parentheses around the "i" parameter(ì—¥
+>
+java:S1125"(Remove the unnecessary boolean literals.(ì—¥
+=
+java:S1481"'Remove this unused "m1" local variable.(ì—¥
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–ö‰
+L
+java:S1854"6Remove this useless assignment to local variable "m1".(Ç¬¡à
+=
+java:S1481"'Remove this unused "m1" local variable.(Ç¬¡à
+P
+java:S1118(":Add a private constructor to hide the implicit public one.(¯ÚˆÅ
+X
+java:S1144"BRemove this unused private "testMovieArbitaryObjectMethod" method.(×ºÈë

@@ -1,0 +1,12 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Î˜îæ8²‡²Ùú/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ü©™Ö8´‡²Ùú/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£á¤óıÿÿÿÿ8´‡²Ùú/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(·æÑ½8Ô‹¶Ùú/
+T	java:S106""9Replace this use of System.out or System.err by a logger.(®¡ìc8”Ì¸Ùú/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(á‡‡Ç8“ø¸Ùú/
+U	java:S106("9Replace this use of System.out or System.err by a logger.(âÒ¼Â8¬¤¹Ùú/
+‰
+java:S4165"gRemove this useless assignment; "isRaining" already holds the assigned value along all execution paths.(ßäÙğúÿÿÿÿ8¹‰´Ùú/
+‰
+java:S4165"gRemove this useless assignment; "isRaining" already holds the assigned value along all execution paths.(Ç“œÖüÿÿÿÿ8±Ù²Ùú/

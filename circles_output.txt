@@ -1,0 +1,20 @@
+A circle has a radius of 12.5 , an area of 490.87 and a circumference of 78.54
+
+A circle has a radius of 1.598 , an area of 8.02 and a circumference of 10.04
+
+A circle has a radius of 56.34 , an area of 9972.03 and a circumference of 353.99
+
+A circle has a radius of 8.3456 , an area of 218.81 and a circumference of 52.44
+
+A circle has a radius of 98.3 , an area of 30356.86 and a circumference of 617.64
+
+A circle has a radius of 76.8 , an area of 18529.87 and a circumference of 482.55
+
+A circle has a radius of 23.6 , an area of 1749.74 and a circumference of 148.28
+
+A circle has a radius of 765.5 , an area of 1840942.66 and a circumference of 4809.78
+
+A circle has a radius of 45.123 , an area of 6396.55 and a circumference of 283.52
+
+A circle has a radius of 81.6 , an area of 20918.48 and a circumference of 512.71
+

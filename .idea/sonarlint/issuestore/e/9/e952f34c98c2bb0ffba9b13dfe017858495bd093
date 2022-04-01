@@ -1,0 +1,9 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ã•’ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öê€†ùÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ÿâõ‰
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ÿÿ€°ûÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(öê€†ùÿÿÿÿ
+C
+java:S1128"-Remove this unused import 'assignment8.Bank'.(ñ€Ò
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õø¦ş

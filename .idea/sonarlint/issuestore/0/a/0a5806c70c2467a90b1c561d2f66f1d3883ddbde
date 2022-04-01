@@ -1,0 +1,7 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Û§‰?
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Û§‰?8åø¤Œû/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜–ÍÙøÿÿÿÿ8Æ½¦Œû/
+‰
+java:S1319"gThe type of "numbers" should be an interface such as "List" rather than the implementation "ArrayList".(ı°¿øÿÿÿÿ8Š§§Œû/
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷¡Ãåúÿÿÿÿ

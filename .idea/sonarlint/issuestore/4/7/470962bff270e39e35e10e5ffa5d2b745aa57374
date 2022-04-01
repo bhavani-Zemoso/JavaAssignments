@@ -1,0 +1,17 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+G
+java:S1611"1Remove the parentheses around the "emp" parameter(›‰°ù
+>
+java:S1125"(Remove the unnecessary boolean literals.(›‰°ù
+L
+java:S1611"1Remove the parentheses around the "emp" parameter(úÏ½¯ùÿÿÿÿ
+C
+java:S1125"(Remove the unnecessary boolean literals.(úÏ½¯ùÿÿÿÿ
+E
+java:S1611
+"/Remove the parentheses around the "s" parameter(é¿¸ˆ
+R
+java:S1612
+"<Replace this lambda with method reference 'String::isEmpty'.(é¿¸ˆ

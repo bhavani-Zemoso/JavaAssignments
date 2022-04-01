@@ -1,0 +1,19 @@
+
+u	java:S116"TRename this field "OSProcess" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞŠä”şÿÿÿÿ8ùñéºù/
+G
+java:S1197"*Move the array designators [] to the type.(ã¸Ï8ùñéºù/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(š±‹½øÿÿÿÿ8ùñéºù/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½¼İ8ùñéºù/
+]	java:S1256"<This block of commented-out lines of code should be removed.(œ‡‘ˆùÿÿÿÿ8‰òéºù/
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(¦¼Şõúÿÿÿÿ8‰òéºù/
+n
+java:S2677I"LUse or store the value returned from "readLine" instead of throwing it away.(£­—âÿÿÿÿÿ8‰òéºù/
+n
+java:S2677J"LUse or store the value returned from "readLine" instead of throwing it away.(£­—âÿÿÿÿÿ8‰òéºù/
+G
+java:S1128"*Remove this unused import 'test.PingTest'.(§ä™Œ8™òéºù/
+O
+java:S1128	"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8™òéºù/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒßµ³ıÿÿÿÿ8™òéºù/
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÓéìÿÿÿÿÿ8™òéºù/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ÌÏÔ8™òéºù/

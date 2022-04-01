@@ -1,0 +1,12 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(Ÿ² ±ıÿÿÿÿ8¨ÊËÜú/
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ÿ² ±ıÿÿÿÿ
+p
+java:S2272"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ÙÚóÂüÿÿÿÿ8³ÊËÜú/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ªš‚­8öÁÌÜú/
+X	java:S125$"<This block of commented-out lines of code should be removed.(è«Ù¶8¹ÿ£öı/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ŒÌÍÙúÿÿÿÿ8ª–öı/
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÈ-8ùÁÌÜú/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹†ÉÆùÿÿÿÿ

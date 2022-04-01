@@ -1,0 +1,9 @@
+
+A
+java:S1659"+Declare "guessedNumber" on a separate line.(Í…¹‚
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÕóÙµ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—˜˜Ö
+S	java:S106"9Replace this use of System.out or System.err by a logger.(º°òñÿÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Îæ«ßùÿÿÿÿ8İô¥åú/
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ø–×û8¥Ë¬åú/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Äòø

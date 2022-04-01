@@ -2,19 +2,21 @@ package assignment6;
 
 import java.util.Arrays;
 import java.util.HashSet;
+import java.util.Set;
+import java.util.TreeSet;
 
 public class VampireNumbers {
 
     public static void main(String args[])
     {
         VampireNumbers instance = new VampireNumbers();
-        HashSet<Long> vampireNumbers = instance.findVampireNumbers();
+        TreeSet<Long> vampireNumbers = instance.findVampireNumbers();
         instance.displayVampireNumbers(vampireNumbers);
     }
 
-    public HashSet<Long> findVampireNumbers()
+    public TreeSet<Long> findVampireNumbers()
     {
-        HashSet<Long> vampireNumbers = new HashSet<>();
+        TreeSet<Long> vampireNumbers = new TreeSet<>();
 
         for(long number = 1000; vampireNumbers.size() <= 100; number++)
         {
@@ -35,12 +37,6 @@ public class VampireNumbers {
 
     public boolean isVampireNumber(long number)
     {
-        int numberOfDigits = findNumberOfDigits(number);
-        if(numberOfDigits % 2 != 0)
-            return false;
-
-        else
-        {
             for(long factor1 = 2; factor1 <= Math.sqrt(number); factor1++)
             {
                 if(number % factor1 == 0)
@@ -50,7 +46,6 @@ public class VampireNumbers {
                         return true;
                 }
             }
-        }
 
         return false;
     }
@@ -79,7 +74,7 @@ public class VampireNumbers {
         return Arrays.equals(numberBytes, factorBytes);
     }
 
-    public void displayVampireNumbers(HashSet<Long> vampireNumbers)
+    public void displayVampireNumbers(TreeSet<Long> vampireNumbers)
     {
         for(Long number : vampireNumbers)
             System.out.println(number);

@@ -4,6 +4,7 @@ public class ExecuteCycle {
     public static void main(String args[])
     {
         //Upcasting
+        //Only overridden methods in subclass and parent class methods
         Cycle cycles[] = new Cycle[3];
 
         cycles[0] = new Unicycle();
@@ -18,19 +19,19 @@ public class ExecuteCycle {
         cycles[2].display();
 
         //Downcasting
+        //For accessing subclass specific methods
         //Unicycle unicycle = new Cycle();
 
-        Cycle cycle = new Cycle();
 
-        Unicycle unicycle = (Unicycle)cycle;
+        Unicycle unicycle = (Unicycle)cycles[0];
         unicycle.display();
         unicycle.balance();
 
-        Bicycle bicycle = (Bicycle) cycle;
+        Bicycle bicycle = (Bicycle) cycles[1];
         bicycle.display();
         bicycle.balance();
 
-        Tricycle tricycle = (Tricycle) cycle;
+        Tricycle tricycle = (Tricycle) cycles[2];
         tricycle.display();
     }
 }

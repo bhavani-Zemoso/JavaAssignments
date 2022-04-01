@@ -1,0 +1,16 @@
+
+E
+java:S1197
+"*Move the array designators [] to the type.(º ìıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(´ïİŞøÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(·ùßóıÿÿÿÿ
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ÇË’ßù/
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8ÇË’ßù/
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ˆ«´Íúÿÿÿÿ
+
+java:S1319"sThe return type of this method should be an interface such as "SortedSet" rather than the implementation "TreeSet".(Ÿù†€8ïùßù/
+
+java:S1319M"qThe type of "vampireNumbers" should be an interface such as "SortedSet" rather than the implementation "TreeSet".(˜Õ„¸8ÏË’ßù/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íù¥¥ûÿÿÿÿ

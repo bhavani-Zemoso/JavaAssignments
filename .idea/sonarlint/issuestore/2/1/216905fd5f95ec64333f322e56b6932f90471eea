@@ -1,0 +1,11 @@
+
+[
+java:S1854">Remove this useless assignment to local variable "yourDouble".(¨×û8êŸğÖú/
+Y
+java:S1854"<Remove this useless assignment to local variable "myDouble".(Ü¶—8†¥äÖú/
+L
+java:S1197"*Move the array designators [] to the type.(º ìıÿÿÿÿ8¸ÕâÖú/
+J
+java:S1481"-Remove this unused "myDouble" local variable.(Ü¶—8¬ÖãÖú/
+L
+java:S1481"/Remove this unused "yourDouble" local variable.(¨×û8ïŸğÖú/

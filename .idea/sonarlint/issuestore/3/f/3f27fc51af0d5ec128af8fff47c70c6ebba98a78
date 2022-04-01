@@ -1,0 +1,22 @@
+
+E
+java:S1611"/Remove the parentheses around the "t" parameter(Στ¤φ
+>
+java:S1125"(Remove the unnecessary boolean literals.(Στ¤φ
+J
+java:S1611"/Remove the parentheses around the "t" parameter(Έ“ΩΫωÿÿÿÿ
+C
+java:S1125"(Remove the unnecessary boolean literals.(Έ“ΩΫωÿÿÿÿ
+D
+java:S1611"/Remove the parentheses around the "t" parameter(¤¬‰&
+h
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¤¬‰&
+>
+java:S1125"(Remove the unnecessary boolean literals.(ό„Ϊχ
+b
+java:S1854$"@Remove this useless assignment to local variable "statusLambda".(«ηªώÿÿÿÿ8Ò§ηµϋ/
+N
+java:S1172!"1Remove this unused method parameter "localCount".(‡™¬8Ò§ηµϋ/
+X	java:S125&"<This block of commented-out lines of code should be removed.(Β΄–σ8Ò§ηµϋ/
+S
+java:S1481$"1Remove this unused "statusLambda" local variable.(«ηªώÿÿÿÿ8Ò§ηµϋ/

@@ -1,0 +1,27 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¯ì²øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±ÔÈù
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(æˆ§’
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ìş½Åúÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(úßÈ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(Å‰ú
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(Å¸Ş
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+:
+java:S1659S"$Declare "column" on a separate line.(©üè
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(å‹òªşÿÿÿÿ
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(É¹İ
+?
+java:S1940p")Use the opposite operator ("!=") instead.(ä†ƒ‡
+?
+java:S1940z")Use the opposite operator ("!=") instead.(Á†Óç
+E
+java:S1940‚")Use the opposite operator ("!=") instead.(Œ€‚Éùÿÿÿÿ
+E
+java:S1940ˆ")Use the opposite operator ("!=") instead.(÷Â¶’ùÿÿÿÿ
+@
+java:S1940")Use the opposite operator ("!=") instead.(¿ğÔ±
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(À˜Š»
