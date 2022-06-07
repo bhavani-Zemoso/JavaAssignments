@@ -1,9 +1,0 @@
-
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ºª¬·ûÿÿÿÿ8éÅÁªû/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜–ÍÙøÿÿÿÿ8šÂªû/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ü¥ÿÿÿÿÿ8Î÷Ïªû/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ñ·¤¬8Ô½éªû/
-Z	java:S106#"9Replace this use of System.out or System.err by a logger.(¥”ìÂùÿÿÿÿ8®Œëªû/
-]	java:S125$"<This block of commented-out lines of code should be removed.(„­ìùÿÿÿÿ8ÿÔÖªû/
-g
-java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(’Ø˜ƒúÿÿÿÿ8å÷Ïªû/

@@ -21,8 +21,6 @@ R
 "src/assignment7/three/Website.java,f\7\f7535099b1672a845b2f3a551b5c0f056fc4c880
 Z
 *src/assignment3/MedianOfPingResponses.java,6\3\63044abd07f02527b984bcc547a1c3e6a93013fe
-[
-+src/assignment4/RangeOfDatesForKycForm.java,b\4\b4f73518a79ce7d50ad9e9206a0bf0fd57f7c9d5
 U
 %src/assignment7/three/AudioBooks.java,1\d\1d3fd9899ab39a8666254a2255dc01b34455ede9
 Q
@@ -37,8 +35,6 @@ R
 "src/assignment7/four/Unicycle.java,1\d\1d219dda393676bf19bafe68ed3fb974c6cf92b7
 ]
 -src/assignment7/five/ExecuteInnerClasses.java,c\1\c10f257e7be7daaa6d6e68dae189495db04e541c
-S
-#src/assignment6/VampireNumbers.java,5\d\5dd225031d9f13e774132aa9d1ff2110cc0f5a41
 R
 "src/core_java/two/VariableFun.java,a\3\a3fbabc7ca67f6e3663ec8c104d33e7695eeba42
 Q
@@ -171,8 +167,6 @@ Y
 -src/core_java/seven/Proj7_2_IceCreamDemo.java,0\3\03d0a87bc9fa93c3b74dde40868ed47cc0823a37
 [
 +src/core_java/seven/Proj7_3_CircleDemo.java,8\6\867874cd3063699144aebee99ef4e8a7d0615c25
-U
-%src/core_java/eight/FileInputFun.java,b\2\b2d78cb4123f750ef222d21bfbe8a75ae192f7ed
 V
 &src/core_java/eight/FileOutputFun.java,1\b\1beb77d7ba1d03f287565bbefb0415837fcb87ae
 9
@@ -208,8 +202,6 @@ W
 'src/core_java/seven/Proj7_3_Circle.java,e\6\e6bab595d18bba581cfa461ece27682f4c7873a9
 B
 circles_output.txt,b\1\b16073646b982c4c9e4fc4a799ed97f9a740d3ff
-[
-+src/core_java/eight/Proj8_2_CircleFile.java,1\6\164991e8084635f8ddaa323279202b0e1ea5d9be
 ?
 circle_data.txt,2\f\2f8082ed18f49ef2e562156b572199c022fb5e88
 V
@@ -283,11 +275,11 @@ I
 src/assignment8/Bank.java,b\4\b4ed8b085d3f3a70a525a1432214bd4334e4cf2d
 Z
 *src/assignment9/TestRegularExpression.java,e\6\e6fd6572ddd8c4722e7f7479018459ac663bc963
-J
-src/assignment10/Node.java,e\3\e3477aaf83d661563ddf7ac10853bd60a8ab5654
+@
+src/TextFile.txt,6\c\6cfd3a8695d770a082a668964e99c18ddd5c2227
 S
-#src/assignment10/SListIterator.java,1\8\187ccf496057d94f3cd89e4034f63038778c09fb
-K
-src/assignment10/SList.java,5\e\5e4e805cc5acc35c3915f4534af51203f8b19013
-P
- src/assignment10/LinkedList.java,5\b\5b3295f5a07c4a07024080e796b17a28cef76795
+#src/assignment6/VampireNumbers.java,5\d\5dd225031d9f13e774132aa9d1ff2110cc0f5a41
+[
++src/assignment4/RangeOfDatesForKycForm.java,b\4\b4f73518a79ce7d50ad9e9206a0bf0fd57f7c9d5
+e
+5src/assignment11/NumberOfOccurrencesOfCharacters.java,3\a\3aef12305fee1bf5afa1c1305d7d114603891160
